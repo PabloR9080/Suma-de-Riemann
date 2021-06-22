@@ -1,2 +1,2 @@
 # Suma-de-Riemann
->Suma de Riemann en python para clase de Cálculo
+>Suma de Riemann por la derecha en python para clase de Cálculo
